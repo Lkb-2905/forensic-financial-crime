@@ -1,0 +1,6 @@
+id,account,amount,counterparty,country,date,score,reasons
+T001,ACC1001,9800,ACME-FR,FR,2026-01-10,2,fractionnement
+T002,ACC1001,9700,ACME-FR,FR,2026-01-10,2,fractionnement
+T003,ACC2002,25000,XYZ-HK,HK,2026-01-12,5,"montant_eleve,pays_risque"
+T004,ACC3003,150,LOCAL-SHOP,FR,2026-01-13,0,
+T005,ACC2002,26000,XYZ-HK,HK,2026-01-14,5,"montant_eleve,pays_risque"

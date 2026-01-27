@@ -1,0 +1,4 @@
+[
+  {"title": "Operation suspecte", "detail": "Transfert international eleve", "severity": "Eleve"},
+  {"title": "Compte inactif", "detail": "Compte admin non utilise", "severity": "Moyen"}
+]

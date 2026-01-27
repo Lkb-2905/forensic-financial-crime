@@ -1,0 +1,6 @@
+source,target,type
+Alice,ACME-FR,owner
+Bob,XYZ-HK,owner
+ACME-FR,Car-123,asset
+XYZ-HK,Account-777,asset
+Alice,Bob,contact
